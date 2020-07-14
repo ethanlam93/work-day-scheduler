@@ -27,7 +27,7 @@ Create a simple calendar application that allows the user to save events for eac
 
 <h1>DETAILS</h1>
 
-1.This project requires the use of Moment.Js to obtain the dynamic date and time for the schedule
+1. This project requires the use of Moment.Js to obtain the dynamic date and time for the schedule
 2.
 
 
