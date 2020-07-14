@@ -29,8 +29,8 @@ Create a simple calendar application that allows the user to save events for eac
 <h1>DETAILS</h1>
 
 1. This project requires the use of Moment.Js to obtain the dynamic date and time for the schedule
-2. Upon loading, Js will search in local storage for saved data and display them on the appropriate timeblock based on ID
-3. All the saved event are nested inside one object for easy navigation, the object contain key for each hours corresponding to the value, once user hit "save" button, the value will be saved into the coressponding key
+2. Upon loading, Js will search in local storage for saved data and display them on the appropriate time-block based on ID
+3. All the saved event are nested inside one object for easy navigation, the object contain key for each hours corresponding to the value, once user hit "save" button, the value will be saved into the corresponding key
 4. The date and time display on top are run every second to update time dynamically without refreshing the whole page.
 
 
