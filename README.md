@@ -7,12 +7,12 @@ Create a simple calendar application that allows the user to save events for eac
 
 <h1>REQUIREMENTS</h1>
 
-1.Current Date is displayed at the top
-2.Presented with timeblock for standard business hour
-3.Timeblock is automatically color-coded to represent past, present, future
-4.Click on a timeblock to enter an event
-5.Able to save event to local storage
-6.Event saved displayed after refreshed
+1. Current Date is displayed at the top
+2. Presented with timeblock for standard business hour
+3. Timeblock is automatically color-coded to represent past, present, future
+4. Click on a timeblock to enter an event
+5. Able to save event to local storage
+6. Event saved displayed after refreshed
 
 <h1>PROCEDURES</h1>
 1. Pseudo-coding
