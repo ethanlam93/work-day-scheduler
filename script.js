@@ -10,7 +10,7 @@ setInterval(displayDateAndTime, 1000);
 
 // Clear local storage and input data
 $(".clear").on("click", function () {
-    $('textarea').empty();
+    $('textarea').val("");
     localStorage.clear()
 })
 
@@ -172,4 +172,10 @@ $("button[data-index='9']").on("click", function () {
         savedList[8]["5pm"] = $("#text9").val();
         localStorage.setItem("all", JSON.stringify(savedList))
     }
+})
+
+// Clear local storage and input data
+$(".clear").on("click", function () {
+    $('textarea').empty();
+    localStorage.clear()
 })
