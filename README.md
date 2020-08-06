@@ -35,7 +35,8 @@ Create a simple calendar application that allows the user to save events for eac
 
 
 
-------Coded by Ethan-----
+My Github Repo: https://github.com/ethanlam93<br>
+Deployment: https://ethanlam93.github.io/work-day-scheduler/
 
 
 
